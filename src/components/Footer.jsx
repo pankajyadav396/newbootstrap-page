@@ -10,7 +10,7 @@ const Footer = () => {
                 <div className='container max-w-1140 pb-5'>
                     <div className="row">
                         <div className="col-md-4">
-                            <a href="#home"><img src={logo} alt="image" className='mb-3 cursor-pointer' /></a>
+                            <a href="#home"><img src={logo} alt="image" className='mb-3 cursor-pointer logo' /></a>
                             <p className='fs-sm color-white fw-normal opacity-75 ff-outfit max-w-440 m-0'>Cloopp revolutionizes recycling for everyone. Join, earn, and support sustainability.</p>
                         </div>
                         <div className="col-md-8 mt-4 mt-md-0 d-flex gap-lg-5 gap-md-3 flex-wrap justify-content-md-end">

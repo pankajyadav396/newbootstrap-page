@@ -18,7 +18,7 @@ const Navsec = () => {
       <div className='h-90 bg-skyblue w-100 d-flex align-items-center'>
         <div className='container-xl justify-content-center d-flex'>
           <div className='d-flex justify-content-between align-items-center my-auto max-w-1140 w-100'>
-            <img src={logo} alt="image" className='cursor-pointer' />
+            <img src={logo} alt="image" className='cursor-pointer logo' />
             <ul className={`${nav ? "open" : "not-open"
               } d-flex justify-content-center align-items-center m-0 p-0 gap-4 mobileView`}>
               <li><a onClick={show} href="#home" className='home color-white fs-sm fw-normal ff-outfit lh-24 text-decoration-none list-unstyled'>How It Works</a></li>

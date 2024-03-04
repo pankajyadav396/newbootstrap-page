@@ -384,7 +384,7 @@
 }
 
 .min-h-850 {
-  min-height: 100vh;
+  min-height: 850px;
 }
 
 .inputbox {
@@ -446,6 +446,10 @@
   transition: all .3s linear;
 }
 
+.logo {
+  width: 146.3px;
+}
+
 .footer-links:hover {
   transform: scale(1.1);
 }
@@ -456,6 +460,11 @@
 
 .footer-links:hover path {
   fill: var(--color-skyblue1);
+}
+
+.img-play {
+  width: 180px;
+  height: 54px;
 }
 
 @keyframes spin89345 {
