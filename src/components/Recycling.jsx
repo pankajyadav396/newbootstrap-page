@@ -29,7 +29,7 @@ const Recycling = () => {
                                         <div class="accordion-body ms-sm-5 pt-0 ff-outfit color-white max-w-440 opacity-75 fw-normal fs-sm3 ">Cloopp partners with amazing brands to bring you coupons and deals you simply can’t get anywhere else.</div>
                                     </div>
                                 </div>
-                                <div class="accordion-item mx-auto mt-2 bg-transparent" data-aos="zoom-in-down">
+                                <div class="accordion-item mx-auto bb-2 mt-2 bg-transparent" data-aos="zoom-in-down">
                                     <h2 class="accordion-header">
                                         <button class="accordion-button accordion-btn1 d-flex gap-3 bg-transparent collapsed ff-outfit color-white fw-600 fs-md3" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false"
@@ -41,7 +41,7 @@ const Recycling = () => {
                                         <div class="accordion-body ff-outfit color-white  ms-sm-5 pt-0 max-w-440 opacity-75 fw-normal fs-sm3">Cloopp partners with amazing brands to bring you coupons and deals you simply can’t get anywhere else.</div>
                                     </div>
                                 </div>
-                                <div class="accordion-item bg-transparent mx-auto mt-2" data-aos="zoom-in-up">
+                                <div class="accordion-item bb-2 bg-transparent mx-auto mt-2" data-aos="zoom-in-up">
                                     <h2 class="accordion-header">
                                         <button class="accordion-button accordion-btn1 bg-transparent d-flex gap-3 collapsed  ff-outfit color-white fw-600 fs-md3" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false"
@@ -50,7 +50,7 @@ const Recycling = () => {
                                     </h2>
                                     <div id="flush-collapseThree" class="accordion-collapse ps-sm-2 collapse"
                                         data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body p-0 ff-outfit color-white ms-sm-5 pt-0 max-w-440 opacity-75 fs-sm3 fw-normal">Cloopp partners with amazing brands to bring you coupons and deals you simply can’t get anywhere else.</div>
+                                        <div class="accordion-body pt-0 ff-outfit color-white ms-sm-5 pt-0 max-w-440 opacity-75 fs-sm3 fw-normal">Cloopp partners with amazing brands to bring you coupons and deals you simply can’t get anywhere else.</div>
                                     </div>
                                 </div>
                             </div>

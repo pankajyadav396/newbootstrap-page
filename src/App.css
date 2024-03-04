@@ -334,7 +334,7 @@
   transition: var(--bs-accordion-btn-icon-transition);
 }
 
-.accordion-button:not(.collapsed)::after {
+.bb-2 .accordion-header .accordion-btn1:not(.collapsed)::after {
   background-image: url(../src//assets//images/webp/minusimg.webp) !important;
 }
 
