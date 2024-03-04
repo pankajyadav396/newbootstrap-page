@@ -11,8 +11,8 @@ const Recycling = () => {
                 <div className='container-lg my-auto d-flex align-items-center justify-content-center h-100 flex-column'>
                     <h2 className='fs-lg2 d-block d-md-none mt-5 pt-5 fw-semibold color-white lh-62 mt-5 mt-md-0 text-center ff-outfit'>Recycling Has Never Been This Easy and Rewarding</h2>
                     <div className='row flex-column-reverse flex-md-row pb-5 pb-md-0 mb-5 mb-md-0 w-100 mt-5'>
-                        <div className="col-md-7 col-12 p-0 mt-4 mt-md-0">
-                            <h2 className='fs-lg2 d-none d-md-block fw-semibold color-white lh-62 mt-5 mt-md-0 ff-outfit mb-4 pb-2'>Recycling Has Never Been This Easy and Rewarding</h2>
+                        <div className="col-md-7 col-12 px-0 px-md-3 mt-4 mt-md-0">
+                            <h2 className='fs-lg2 d-none d-md-block fw-semibold color-white max-w-610 lh-62 mt-5 mt-md-0 ff-outfit mb-4 pb-2'>Recycling Has Never Been This Easy and Rewarding</h2>
                             <div class="accordion accordion1 me-auto max-w-513  accordion-flush mt-26 bg-transparent border-container" data-aos="zoom-in-up"
                                 id="accordionFlushExample">
                                 <div class="accordion-item bb-2 bg-transparent mt-2 mx-auto" data-aos="zoom-in-up">
@@ -55,7 +55,7 @@ const Recycling = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-5 p-0 d-flex align-items-center justify-content-center">
+                        <div className="col-md-5 px-0 px-md-3 d-flex align-items-center justify-content-center">
                             <img src={bottle} alt="image" className='w-100 max-w-502' />
                         </div>
                     </div>

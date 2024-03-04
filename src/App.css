@@ -327,6 +327,10 @@
   max-height: 140px;
 }
 
+.max-w-610 {
+  max-width: 610px;
+}
+
 .accordion-btn1::after {
   background-image: url(../src/assets/images/webp/plusimg.webp) !important;
   background-repeat: no-repeat;
