@@ -4,7 +4,7 @@ import ellipse from "../assets/images/webp/2nd-ellipse.webp"
 const Easycreate = () => {
     return (
         <>
-            <div className='pt-5 position-relative z-1' id="about">
+            <div className='pt-5 position-relative' id="about">
                 <img src={ellipse} alt="ellipse" className=" position-absolute start-0 z-n1 ellipse2" />
                 <h2 className='fs-lg2 fw-semibold px-2 text-center color-black1 ff-outfit lh-62'>Creating a Greener World Is <span className="d-block">Now As Easy As 1-2-3</span> </h2>
                 <div className='container-lg mt-5'>

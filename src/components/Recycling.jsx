@@ -21,7 +21,6 @@ const Recycling = () => {
                                             aria-controls="flush-collapseOne">
                                             <Exclusive /> Exclusive Coupons & Rewards
                                         </button>
-
                                     </h2>
                                     <div id="flush-collapseOne" class="accordion-collapse show ps-sm-2 collapse "
                                         data-bs-parent="#accordionFlushExample">
