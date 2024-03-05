@@ -16,9 +16,9 @@ const Header = () => {
                 <div className='container-xl pt-4 flex-grow-1 mt-xl-5 pt-sm-4 justify-content-center align-items-center d-flex'>
                     <div className='max-w-1140 w-100 mt-lg-0'>
                         <img src={star} alt="star" className=' position-absolute ms-4' />
-                        <img src={arrow} alt="star" className=' position-absolute arrow d-none d-md-block' />
+                        <img src={arrow} alt="star" className=' position-absolute arrow d-none d-lg-block' />
                         <div className='row justify-content-between'>
-                            <div className='col-md-7 pt-xl-5 mt-lg-4 d-flex justify-content-center justify-content-md-start'>
+                            <div className='col-xl-6 col-md-7 pt-xl-5 mt-lg-4 d-flex justify-content-center justify-content-md-start'>
                                 <div>
                                     <h1 className='fs-xl2 fw-semibold color-white lh-83 ff-outfit text-nowrap'>Recycle. Reward.</h1>
                                     <p className='fs-xl fw-normal color-white pb-1 lh-83 ff-rainbow'>With Cloopp</p>
@@ -29,7 +29,7 @@ const Header = () => {
                                     </div>
                                 </div>
                             </div>
-                            <div className='col-md-5 mt-5 mt-md-4 d-flex justify-content-center justify-content-md-start'>
+                            <div className='col-xl-6 col-md-5 mt-5 mt-md-4 d-flex justify-content-center justify-content-md-start'>
                                 <img src={bottle} alt="image" className='w-100 max-w-530' />
                             </div>
                         </div>
