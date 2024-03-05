@@ -6,21 +6,21 @@ const Footer = () => {
     const year = today.getFullYear();
     return (
         <>
-            <div className='bg-black1 min-h-360  position-relative z-2 mt_2'>
+            <div className='bg-black1 min-h-360 pt-5 position-relative z-2 mt_2'>
                 <div className='container max-w-1140 pb-5'>
                     <div className="row">
                         <div className="col-md-4">
                             <a href="#home"><img src={logo} alt="image" className='mb-3 cursor-pointer logo' /></a>
-                            <p className='fs-sm color-white fw-normal opacity-75 ff-outfit max-w-440 m-0'>Cloopp revolutionizes recycling for everyone. Join, earn, and support sustainability.</p>
+                            <p className='fs-sm color-white fw-normal opacity-75 ff-outfit m-0'>Cloopp revolutionizes recycling for everyone. <span className='d-md-block'> Join, earn, and support sustainability.</span></p>
                         </div>
                         <div className="col-md-8 mt-4 mt-md-0 d-flex gap-lg-5 gap-md-3 flex-wrap justify-content-md-end">
-                            <ul className='p-0 gap-3 d-flex flex-column pe-3'>
+                            <ul className='p-0 gap-2 gap-sm-3 d-flex flex-column pe-3'>
                                 <li><a href="#about" className='home opacity-75 color-white fs-sm fw-normal ff-outfit lh-24 text-decoration-none list-unstyled'>About Us</a></li>
                                 <li><a href="#home" className='home opacity-75 color-white fs-sm fw-normal ff-outfit lh-24 text-decoration-none list-unstyled'>How It Works</a></li>
                                 <li><a href="#brand" className='home opacity-75 color-white fs-sm fw-normal ff-outfit lh-24 text-decoration-none list-unstyled'>For Brands</a></li>
                                 <li><a href="#career" className='home opacity-75 color-white fs-sm fw-normal ff-outfit lh-24 text-decoration-none list-unstyled'>Careers</a></li>
                             </ul>
-                            <ul className='p-0 gap-3 d-flex flex-column px-3'>
+                            <ul className='p-0 gap-2 gap-sm-3 d-flex flex-column px-3'>
                                 <li><a href="#career" className='home opacity-75 color-white fs-sm fw-normal ff-outfit lh-24 text-decoration-none list-unstyled'>Terms & Conditions</a></li>
                                 <li><a href="#career" className='home opacity-75 color-white fs-sm fw-normal ff-outfit lh-24 text-decoration-none list-unstyled'>Privacy Policy</a></li>
                             </ul>

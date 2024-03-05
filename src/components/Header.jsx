@@ -10,7 +10,7 @@ import ellipse from '../assets/images/webp/header-ellipse.webp'
 const Header = () => {
     return (
         <>
-            <div className=' min-h-850 d-flex flex-column bg-skyblue1 pb-xxl-5 position-relative z-1' id='home'>
+            <div className='min-h-850 d-flex flex-column bg-skyblue1 pb-xxl-5 position-relative z-1' id='home'>
                 <img src={ellipse} alt="ellipse" className=' position-absolute end-0 z-n1 ellipse1' />
                 <Navsec />
                 <div className='container-xl pt-4 flex-grow-1 mt-xl-5 pt-sm-4 justify-content-center align-items-center d-flex'>

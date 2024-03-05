@@ -14,17 +14,17 @@ const Easycreate = () => {
                                 <img src={mobile} alt="image" className="w-100" />
                             </div>
                             <div className="col-md-6 col-sm-10 mx-auto mx-md-0 justify-content-center align-items-center flex-column d-flex d-md-inline mt-5 mt-md-0">
-                                <div className="bg-black2 mb-3 black-box-small d-flex justify-content-center align-items-center">
+                                <div className="bg-black2 mb-2 mb-md-3 black-box-small d-flex justify-content-center align-items-center">
                                     <p className=" color-yellow ff-outfit fw-semibold fs-md2 m-0">1</p>
                                 </div>
                                 <p className="color-black1 text-center text-md-start fs-md3 mb-2 pt-1 fw-medium ff-outfit lh-32">Scan The Barcode Before Recycling</p>
-                                <p className="color-black3 text-center text-md-start fs-sm3 fw-normal ff-outfit lh-24">Open Cloopp, scan the product's barcode, and rack up points with every item you keep out of the landfill.</p>
-                                <div className="bg-black2 mb-3 black-box-small d-flex justify-content-center align-items-center">
+                                <p className="color-black3 text-center text-md-start fs-sm3 fw-normal mb-4 mb-md-3 ff-outfit lh-24">Open Cloopp, scan the product's barcode, and rack up points with every item you keep out of the landfill.</p>
+                                <div className="bg-black2 mb-2 mb-md-3 black-box-small d-flex justify-content-center align-items-center">
                                     <p className="color-yellow ff-outfit fw-semibold fs-md2 m-0">2</p>
                                 </div>
                                 <p className="color-black1 text-center text-md-start fs-md3 mb-2 pt-1 fw-medium ff-outfit lh-32">Get Paid For Products You Use</p>
-                                <p className="color-black3 text-center text-md-start fs-sm3 fw-normal ff-outfit lh-24">Get rewarded for doing the right thing Your daily items – from plastics to cardboard and beyond – are connected to the Cloopp App.</p>
-                                <div className="bg-black2 mb-3 black-box-small d-flex justify-content-center align-items-center">
+                                <p className="color-black3 text-center text-md-start fs-sm3 mb-4 mb-md-3 fw-normal ff-outfit lh-24">Get rewarded for doing the right thing Your daily items – from plastics to cardboard and beyond – are connected to the Cloopp App.</p>
+                                <div className="bg-black2 mb-2 mb-md-3 black-box-small d-flex justify-content-center align-items-center">
                                     <p className="color-yellow ff-outfit fw-semibold fs-md2 m-0">3</p>
                                 </div>
                                 <p className="color-black1 text-center text-md-start fs-md3 mb-2 pt-1 fw-medium ff-outfit lh-32">Reap The Rewards</p>

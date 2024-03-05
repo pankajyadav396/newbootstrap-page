@@ -325,10 +325,6 @@
   background-image: url(../src/assets/svg/minus.svg) !important;
 }
 
-.max-w-440 {
-  max-width: 440px;
-}
-
 .max-w-758 {
   max-width: 758px !important;
 }
@@ -434,7 +430,7 @@
 }
 
 .logo {
-  width: 146.3px;
+  width: 130.3px;
 }
 
 .footer-links:hover {
@@ -489,6 +485,10 @@
 @media (min-width:576px) {
   .min-h-850 {
     min-height: 850px;
+  }
+
+  .logo {
+    width: 146.3px;
   }
 
   :root {
