@@ -17,7 +17,7 @@ const Newsletter = () => {
                     <p className='fs-sm text-center mb-4 pb-2 color-white ff-outfit lh-24 fw-normal'>Subscribe to our newsletter for the latest news, offers, and eco-tips.</p>
                     <form className='max-w-502 w-100'>
                         <div className='inputbox mx-auto br-10'>
-                            <input type="email" className='fs-sm h-100 input color-white ff-outfit' placeholder='Enter Your Email' />
+                            <input type="email" className='fs-sm h-100 input color-white ff-outfit' placeholder='Enter Your Email' required />
                             <button className='fs-sm bg-white py-3 px-4 color-skyblue1 br-10 fs-sm lh-24 border-0 fw-semibold ff-outfit'>Join</button>
                         </div>
                     </form>
