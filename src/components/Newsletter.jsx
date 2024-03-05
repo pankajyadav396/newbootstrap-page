@@ -7,12 +7,12 @@ import ellipse2 from '../assets/images/webp/6th-ellipse.webp'
 const Newsletter = () => {
     return (
         <>
-            <div className='position-relative bg-skyblue min-h-701 d-flex z-1' >
+            <div className='position-relative bg-skyblue min-h-701  d-flex z-1' >
                 <img src={ellipse1} alt="ellipse" className=' position-absolute d-none d-md-block top-0 start-0' />
                 <img src={ellipse2} alt="ellipse" className=' position-absolute d-none d-md-block bottom-0 end-0' />
                 <img src={layer3} alt="image" className=' top-0 max-h-140 position-absolute w-100' />
                 <img src={layer} alt="image" className=' bottom-0 max-h-140 position-absolute w-100' />
-                <div className='container position-relative z-2 d-flex flex-column align-items-center justify-content-center flex-grow-1'>
+                <div className='container position-relative my-5 z-2 d-flex flex-column align-items-center justify-content-center flex-grow-1'>
                     <h2 className='fs-lg2 text-center mb-3 lh-62 ff-outfit color-white fw-semibold'>Subscribe Newsletter</h2>
                     <p className='fs-sm text-center mb-4 pb-2 color-white ff-outfit lh-24 fw-normal'>Subscribe to our newsletter for the latest news, offers, and eco-tips.</p>
                     <form className='max-w-502 w-100'>

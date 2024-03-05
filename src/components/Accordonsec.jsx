@@ -22,7 +22,7 @@ const Accordonsec = () => {
                                 <div class="accordion-body pt-0 max-w-758 ff-outfit color-black1 opacity-75 fw-normal ">Cloopp partners with amazing brands to bring you coupons and deals you simply can’t get anywhere else.</div>
                             </div>
                         </div>
-                        <div class="accordion-item accr-item2 bg-transparent mx-auto mt-2" data-aos="zoom-in-up">
+                        <div class="accordion-item accr-item2 bg-transparent mx-auto mt-3" data-aos="zoom-in-up">
                             <h2 class="accordion-header">
                                 <button class="accordion-button accordion-butn2 bg-transparent d-flex gap-3 collapsed  ff-outfit color-black1 fw-medium fs-md1" type="button"
                                     data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false"
@@ -34,7 +34,7 @@ const Accordonsec = () => {
                                 <div class="accordion-body pt-0 max-w-758 ff-outfit color-black1 opacity-75 fw-normal">Cloopp partners with amazing brands to bring you coupons and deals you simply can’t get anywhere else.</div>
                             </div>
                         </div>
-                        <div class="accordion-item accr-item2 bg-transparent mx-auto mt-2" data-aos="zoom-in-up">
+                        <div class="accordion-item accr-item2 bg-transparent mx-auto mt-3" data-aos="zoom-in-up">
                             <h2 class="accordion-header">
                                 <button class="accordion-button accordion-butn2 bg-transparent d-flex gap-3 collapsed  ff-outfit color-black1 fw-medium fs-md1" type="button"
                                     data-bs-toggle="collapse" data-bs-target="#flush-collapseSix" aria-expanded="false"
@@ -46,7 +46,7 @@ const Accordonsec = () => {
                                 <div class="accordion-body pt-0 max-w-758 ff-outfit color-black1 opacity-75 fw-normal">Cloopp partners with amazing brands to bring you coupons and deals you simply can’t get anywhere else.</div>
                             </div>
                         </div>
-                        <div class="accordion-item accr-item2 bg-transparent mx-auto mt-2" data-aos="zoom-in-up">
+                        <div class="accordion-item accr-item2 bg-transparent mx-auto mt-3" data-aos="zoom-in-up">
                             <h2 class="accordion-header">
                                 <button class="accordion-button accordion-butn2 bg-transparent d-flex gap-3 collapsed  ff-outfit color-black1 fw-medium fs-md1" type="button"
                                     data-bs-toggle="collapse" data-bs-target="#flush-collapseSeven" aria-expanded="false"
