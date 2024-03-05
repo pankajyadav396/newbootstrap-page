@@ -3,7 +3,7 @@ import ellipse from '../assets/images/webp/3rd-ellipse.webp'
 const Accordonsec = () => {
     return (
         <>
-            <div className=' position-relative z-1 pt-5 pb-5 pb-xxl-0' id='brand'>
+            <div className=' position-relative z-1 py-5' id='brand'>
                 <img src={ellipse} alt="elipsed" className=' position-absolute end-0 z-n1' />
                 <div className='container'>
                     <h2 className='fw-semibold fs-lg2 ff-outfit lh-62 color-black1 text-center mt-4 pt-1 mb-4 pb-2'>Frequently Asked Questions</h2>

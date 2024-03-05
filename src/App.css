@@ -296,7 +296,6 @@
   border-radius: 100%;
 }
 
-
 .accordion-item {
   border: 1px solid #a4a4a4 !important;
   max-width: 512px;
@@ -320,14 +319,14 @@
 }
 
 .accordion-btn1::after {
-  background-image: url(../src/assets/images/webp/plusimg.webp) !important;
+  background-image: url(../src/assets/svg/plus.svg) !important;
   background-repeat: no-repeat;
   background-size: var(--bs-accordion-btn-icon-width);
   transition: var(--bs-accordion-btn-icon-transition);
 }
 
 .bb-2 .accordion-header .accordion-btn1:not(.collapsed)::after {
-  background-image: url(../src//assets//images/webp/minusimg.webp) !important;
+  background-image: url(../src/assets/svg/minus.svg) !important;
 }
 
 .max-w-440 {
