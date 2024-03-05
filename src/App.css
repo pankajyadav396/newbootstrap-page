@@ -282,14 +282,6 @@
   max-width: 1140px;
 }
 
-.max-w-675 {
-  max-width: 675px;
-}
-
-.max-w-357 {
-  max-width: 357px;
-}
-
 .max-w-502 {
   max-width: 340px;
 }
@@ -325,10 +317,6 @@
 
 .max-h-140 {
   max-height: 140px;
-}
-
-.max-w-610 {
-  max-width: 610px;
 }
 
 .accordion-btn1::after {

@@ -8,8 +8,8 @@ const Newsletter = () => {
     return (
         <>
             <div className='position-relative bg-skyblue min-h-701 d-flex z-1' >
-                <img src={ellipse1} alt="" className=' position-absolute d-none d-md-block top-0 start-0' />
-                <img src={ellipse2} alt="" className=' position-absolute d-none d-md-block bottom-0 end-0' />
+                <img src={ellipse1} alt="ellipse" className=' position-absolute d-none d-md-block top-0 start-0' />
+                <img src={ellipse2} alt="ellipse" className=' position-absolute d-none d-md-block bottom-0 end-0' />
                 <img src={layer3} alt="image" className=' top-0 max-h-140 position-absolute w-100' />
                 <img src={layer} alt="image" className=' bottom-0 max-h-140 position-absolute w-100' />
                 <div className='container position-relative z-2 d-flex flex-column align-items-center justify-content-center flex-grow-1'>

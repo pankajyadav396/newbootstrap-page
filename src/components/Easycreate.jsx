@@ -6,12 +6,12 @@ const Easycreate = () => {
         <>
             <div className='pt-5 position-relative z-1' id="about">
                 <img src={ellipse} alt="ellipse" className=" position-absolute start-0 z-n1 ellipse2" />
-                <h2 className='fs-lg2 fw-semibold max-w-675 px-2 text-center mx-auto color-black1 ff-outfit lh-62'>Creating a Greener World Is Now As Easy As 1-2-3</h2>
+                <h2 className='fs-lg2 fw-semibold px-2 text-center color-black1 ff-outfit lh-62'>Creating a Greener World Is <span className="d-block">Now As Easy As 1-2-3</span> </h2>
                 <div className='container-lg mt-5'>
                     <div className="max-w-1008 mx-auto">
                         <div className='row justify-content-between'>
-                            <div className='col-md-6 d-flex align-items-center justify-content-center justify-content-md-start'>
-                                <img src={mobile} alt="image" className="w-100 max-w-357" />
+                            <div className='col-md-4 col-sm-6 col-10 mx-auto my-auto'>
+                                <img src={mobile} alt="image" className="w-100" />
                             </div>
                             <div className="col-md-6 justify-content-center justify-content-md-start d-flex mt-5 mt-md-0">
                                 <div className="max-w-502 d-flex d-md-inline flex-column justify-content-center align-items-center">
