@@ -8,9 +8,9 @@ const Recycling = () => {
             <div className=' position-relative py-5 bg-skyblue1 d-flex min-h-850' id='career'>
                 <img src={layer} alt="img" className='position-absolute top-0 w-100 max-h-140' />
                 <img src={layer2} alt="img" className='position-absolute bottom-0 w-100 max-h-140' />
-                <div className='container-lg flex-grow-1 d-flex'>
-                    <div className='row ps-3 w-100 mt-5'>
-                        <div className="col-md-7 col-12 my-auto">
+                <div className='container-lg flex-grow-1 d-flex pe-0'>
+                    <div className='row ps-2 w-100 my-4 mt-md-5'>
+                        <div className="col-md-7 col-12 my-auto px-0">
                             <h2 className='fs-lg2 fw-semibold text-center text-md-start color-white lh-62 mt-5 mt-md-0 ff-outfit mb-4 pb-2'>Recycling Has Never Been <span className='d-xl-block'> This Easy and Rewarding</span></h2>
                             <div class="accordion accordion1 me-auto max-w-513  accordion-flush mt-26 bg-transparent border-container" data-aos="zoom-in-up"
                                 id="accordionFlushExample">
@@ -53,7 +53,7 @@ const Recycling = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-5 col-sm-8 my-auto mx-auto">
+                        <div className="col-md-5 col-sm-8 col-10 my-md-auto mx-auto mt-5">
                             <img src={bottle} alt="image" className='w-100' />
                         </div>
                     </div>

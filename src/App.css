@@ -282,10 +282,6 @@
   max-width: 1140px;
 }
 
-.max-w-502 {
-  max-width: 340px;
-}
-
 .max-w-1008 {
   max-width: 1008px;
 }
@@ -527,10 +523,6 @@
 
   .lh-62 {
     line-height: 60.4px;
-  }
-
-  .max-w-502 {
-    max-width: 499px;
   }
 
   .max-w-530 {
