@@ -12,7 +12,7 @@ const Recycling = () => {
                     <div className='row ps-2 w-100 py-5 mt-sm-4 mt-lg-5'>
                         <div className="col-md-7 col-12 my-auto px-0">
                             <h2 className='fs-lg2 fw-semibold text-center text-md-start color-white lh-62 ff-outfit mb-4 pb-2'>Recycling Has Never Been <span className='d-xl-block'> This Easy and Rewarding</span></h2>
-                            <div class="accordion accordion1 me-auto max-w-513  accordion-flush mt-26 bg-transparent border-container" data-aos="zoom-in-up"
+                            <div class="accordion accordion1 me-auto max-w-513 accordion-flush mt-26 bg-transparent border-container" data-aos="zoom-in-up"
                                 id="accordionFlushExample">
                                 <div class="accordion-item bb-2 bg-transparent mt-2 mx-auto" data-aos="zoom-in-up">
                                     <h2 class="accordion-header bg-transparent">
